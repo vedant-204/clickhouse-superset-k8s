@@ -7,10 +7,10 @@ This project has the basic idea of generating and visualization of big queries o
 
 ## Demo
 
-![alt clickhouse_local] (https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/clickhouse_local.png)
-![alt k9s_dep_view] (https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/k9s_dep_view.png)
-![alt superset_connection] (https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/superset_connection.png)
-![alt superset_home_page] (https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/superset_home_page.png)
+![alt clickhouse_local](https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/clickhouse_local.png)
+![alt k9s_dep_view](https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/k9s_dep_view.png)
+![alt superset_connection](https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/superset_connection.png)
+![alt superset_home_page](https://github.com/vedant-204/clickhouse-superset-k8s/blob/dev/assets/superset_home_page.png)
 
 
 
